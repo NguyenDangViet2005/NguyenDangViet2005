@@ -1,145 +1,181 @@
-<div align="center" style="background: linear-gradient(135deg, #ff4b2b 0%, #ffffff 100%); padding: 60px 20px; border-radius: 20px; margin-bottom: 30px;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=115A96&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;I'm+Nguyen+Dang+Viet!;Fullstack+Developer;Welcome+to+my+Profile!" />
-</div>
-<!-- About -->
-<table style="display: flex; align-items: center; gap: 20px; padding: 20px;">
-  <!-- Text Section -->
-   <h2>🌟 About me</h2>
-  <tr>
-    <td>
-      <div style="text-align: justify;">
-        <p>
-          I’m a <b>Full Stack Developer</b> with a strong passion for building
-          modern and scalable web applications. I enjoy creating clean,
-          efficient, and user-friendly solutions from backend to frontend.
-        </p>
-        <ul>
-              <li>
-                🌱 I’m currently learning:
-                <ul>
-                  <li>Next.js</li>
-                  <li>NestJS</li>
-                  <li>Cloud & DevOps</li>
-                </ul>
-              </li>
-              <li>
-                👯 I’m looking forward to collaborating on
-                <b>open-source projects</b> and innovative startups.
-              </li>
-              <li>
-                💬 Ask me about:
-                <ul>
-                  <li>
-                    Full Stack Development (Java, Spring Boot, Node.js, React,
-                    Next.js)
-                  </li>
-                  <li>Database design (MySQL, MongoDB)</li>
-                  <li>API development & system architecture</li>
-                </ul>
-              </li>
-              <li>
-                🎯 Outside tech:
-                <ul>
-                  <li>🎵 Listening to music</li>
-                  <li>📚 Reading books about technology & self-development</li>
-                  <li>🎮 Gaming & exploring new tools</li>
-                </ul>
-              </li>
-            </ul>
-            <div>
-              <p>
-                ✨ Additionally, I share my coding journey and side projects here on
-                GitHub.
-              </p>
-              <p>📫 Reach out to me at: <b>Vietnguyen.1022005@gmail.com</b></p>
-            </div>
-      </div>
-    </td>
-   <!-- Image Section -->
-    <td>
-      <div>
-        <img
-          src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"
-          width="220px"
-          alt="bear coding"
-        />
-      </div>
-      </td>
-  </tr>
-</table>
 
- <h2>🛠️ Tech Stack & Tools</h2>
 
-### 💻 **Programming Languages**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-### 🎨 **Frontend**
-![React](https://img.shields.io/badge/React-red?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=next.js&logoColor=red) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-white?style=for-the-badge&logo=tailwind-css&logoColor=red) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-### ⚙️ **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-red?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=red) ![NestJS](https://img.shields.io/badge/NestJS-red?style=for-the-badge&logo=nestjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-white?style=for-the-badge&logo=spring-boot&logoColor=red) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-### 🗄️ **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-red?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=red) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-red?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
-### 🚀 **Hostings**
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-### 🌟 **Designs**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-### **Others**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+<!-- 👋 Giới thiệu -->
+<div align="left" style="padding: 20px 0; max-width: 800px; margin: auto;">
 
-## 🌐 Connect With Me:
-<p align="left">
-  <a href="mailto:Vietnguyen.1022005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/dangvietdzday" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/dangviet102/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/%C4%91%C4%83ng-vi%E1%BB%87t-82a881292/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@dangvietvietviet?lang=vi-VN" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
+<h1 style="font-size: 2.5rem; font-weight: 700; color: #1E3A8A;">
+  Xin chào, mình là <span style="color:#2563EB;">Nguyễn Đăng Việt</span>
+</h1>
+
+<h3 style="font-weight: 500; color: #334155;">
+  💻 Fullstack Developer • Đam mê công nghệ & sáng tạo sản phẩm thực tế
+</h3>
+
+<p style="color: #4B5563; font-size: 1.05rem; line-height: 1.7;">
+  “Mình không chỉ viết code — mình kiến tạo <b>giải pháp tối ưu</b> giúp ứng dụng chạy mượt, ổn định và dễ mở rộng.<br/>
+  Tư duy hệ thống, <b>kiến trúc sạch</b> và <b>trải nghiệm người dùng</b> là ba trụ cột mình luôn theo đuổi.”
 </p>
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <!-- Tổng quan -->
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenDangViet2005&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px"/>
-
-  <!-- Biểu đồ streak -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NguyenDangViet2005&theme=radical&hide_border=true" height="180px"/>
-
-  <!-- Ngôn ngữ hay dùng -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDangViet2005&theme=radical&hide_border=true&layout=compact&langs_count=8" height="180px"/>
+<img 
+  src="https://readme-typing-svg.herokuapp.com/?font=Noto+Sans&weight=600&size=22&duration=4000&pause=500&color=1E3A8A&center=false&vCenter=true&width=650&lines=Lập+trình+viên+Fullstack;Đam+mê+kiến+trúc+sạch+và+tối+ưu+hệ+thống;Không+ngừng+học+hỏi+và+phát+triển;Xây+dựng+sản+phẩm+mang+lại+giá+trị+thực+tế" 
+  alt="Typing SVG"
+/>
 
 </div>
 
 ---
 
-## ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=NguyenDangViet2005&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repos"/>
-</div>
-
----
+<div align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEwNjI1NjgsIm5iZiI6MTc2MTA2MjI2OCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDIxVDE1NTc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUxMGYzZTk2N2I0MWZlMzRiNmQ3OTU0NjZjMGJlNGFkNDNlNjgwOTEzNzNlODdjOTk4NTgxYTllNThkZDdjYWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JXHpaGDTpRiyfCqWsc8-MdQoaNCXYG_QSPugOpIEdD0" alt="banner" width="100%" /> </div>
 
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=NguyenDangViet2005&icon=0&color=6)](https://visitcount.itsvg.in)
+<table>
+<tr>
+<td width="65%" valign="top">
+<h2>🌟 Giới thiệu</h2>
+
+Mình là **Nguyễn Đăng Việt**, một **Lập trình viên Fullstack** đam mê công nghệ và định hướng phát triển thành **System Architect** trong tương lai.
+Với nền tảng vững chắc về **phát triển ứng dụng web và xây dựng hệ thống doanh nghiệp**, mình có khả năng đảm nhận trọn vẹn quy trình phát triển phần mềm — **từ phân tích yêu cầu, thiết kế kiến trúc hệ thống, xây dựng giải pháp kỹ thuật, đến triển khai, tối ưu và bảo trì sản phẩm thực tế.**
+
+Mình luôn đặt trọng tâm vào việc thiết kế hệ thống có khả năng mở rộng (scalable), tối ưu hiệu năng (performance optimization) và bảo mật ở cấp ứng dụng (application-level security).
+
+### 🔹 Kỹ năng chuyên sâu:
+
+- **Backend:** Xây dựng API RESTful & GraphQL, xử lý phân quyền (JWT, OAuth2), quản lý session và caching, triển khai kiến trúc dịch vụ (service-based), tối ưu hiệu năng truy vấn và xử lý logic nghiệp vụ.
+- **Frontend:** Thiết kế giao diện hiện đại, tái sử dụng cao (modular UI), kết hợp React/Next.js với TailwindCSS hoặc ShadCN UI, đảm bảo UX/UI nhất quán và hiệu suất hiển thị tối ưu.
+- **Database:** Thành thạo thiết kế cơ sở dữ liệu quan hệ và phi quan hệ (MySQL, PostgreSQL, MongoDB), xây dựng mô hình chuẩn hoá, truy vấn phức tạp, indexing và tối ưu hóa transaction.
+- **Bảo mật:** Kiểm soát truy cập người dùng, ngăn chặn tấn công phổ biến (XSS, CSRF, SQL Injection), bảo vệ API bằng middleware, và triển khai cơ chế caching layer, rate-limiting, load balancing.
+### 🌱 Hiện tại mình đang tập trung:
+
+- Kiến trúc **Microservices** và **Cloud**
+- **DevOps cơ bản:** CI/CD, Docker, Render/Vercel
+- **Next.js App Router, Middleware, SSR/SSG tối ưu**
+
+### 💬 Mục tiêu:
+
+Mình hướng đến việc trở thành **Fullstack Developer chuyên sâu về kiến trúc hệ thống và tối ưu hiệu năng.**
+Mục tiêu của mình là tạo ra các **ứng dụng thực tế, hữu ích và có giá trị lâu dài cho người dùng**, đồng thời xây dựng **môi trường code sạch (Clean Architecture), thành phần tái sử dụng cao (Reusable Components), và hệ thống backend có khả năng mở rộng linh hoạt (Scalable Backend Infrastructure).**
+
+📫 **Liên hệ:** [Vietnguyen.1022005@gmail.com](mailto:Vietnguyen.1022005@gmail.com)
+
+---
 
 </div>
+
+<div align="center">
+
+</td>
+<td width="35%" valign="top">
+
+<h2>🛠️ Công Nghệ</h2>
+
+**💻 Ngôn ngữ lập trình**  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+**🎨 Frontend**  
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+**⚙️ Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**🗄️ Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**🚀 Hostings**  
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+<img 
+  src="https://private-user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEwNjI1NjgsIm5iZiI6MTc2MTA2MjI2OCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzNzktMGRiMzIyOTAtYzE5My00YjMyLTk1ZGMtNDEzY2U5ZTQ0NmE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDIxVDE1NTc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJiYmJlYjZmOWQ4NDQ1ZmUzNzkyMjE5ZTJiNzZkZTQxOGE1OGM0N2FhMTkwOWI0MTQwNzU5MzZhZjNiM2NkYjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Vu7Hpr9yb4ezdgxywViyrqyrPhMO4hIR8FDLU8CK1fA" 
+  alt="image"
+/>
+</div>
+</td>
+</tr>
+</table>
+
+<div>
+<table>
+<tr>
+<td valign="top">
+  <h2>🏆 GitHub Achievements</h2>
+  <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NguyenDangViet2005&theme=radical&no-frame=true&margin-w=10&column=6" />
+</div>
+</td> 
+<td valign="top">
+<h2>📈 Hoạt động trên GitHub</h2>
+<div align="center">
+  <div>
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenDangViet2005&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px"/>
+  </div>
+  <div>
+  <img src="https://streak-stats.demolab.com?user=NguyenDangViet2005&theme=radical&hide_border=true" height="180px"/>
+  </div>
+</div>  
+</td>
+</tr>
+</table>
+</div>
+
+
+## 🧠 Biểu đồ hoạt động & ngôn ngữ
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenDangViet2005&theme=react-dark&hide_border=true&area=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDangViet2005&theme=radical&hide_border=true&layout=compact&langs_count=8" height="180px"/>
+</div>
+
+---
+
+<div>
+<table>
+<tr>
+<td width="70%" valign="top">
+ <h2>✍️ Trích dẫn ngẫu nhiên</h2>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</div>
+</td> 
+<td width="30%" valign="top">
+ <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="image" />
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🌐 Kết nối với mình
+
+<p align="center">
+  <a href="mailto:Vietnguyen.1022005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/dangvietdzday"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/%C4%91%C4%83ng-vi%E1%BB%87t-82a881292/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/dangviet102/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@dangvietvietviet?lang=vi-VN"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+</p>
+
+---
 
