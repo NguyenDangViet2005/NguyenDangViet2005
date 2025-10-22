@@ -25,7 +25,7 @@
 
 ---
 
-<div align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEwNjI1NjgsIm5iZiI6MTc2MTA2MjI2OCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDIxVDE1NTc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUxMGYzZTk2N2I0MWZlMzRiNmQ3OTU0NjZjMGJlNGFkNDNlNjgwOTEzNzNlODdjOTk4NTgxYTllNThkZDdjYWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JXHpaGDTpRiyfCqWsc8-MdQoaNCXYG_QSPugOpIEdD0" alt="banner" width="100%" /> </div>
+<div align="center"> <img src="./github-readme1.png" alt="banner" width="100%" /> </div>
 
 <div align="center">
   
@@ -106,7 +106,7 @@ Mục tiêu của mình là tạo ra các **ứng dụng thực tế, hữu ích
 
 ---
 <img 
-  src="https://private-user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEwNjI1NjgsIm5iZiI6MTc2MTA2MjI2OCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzNzktMGRiMzIyOTAtYzE5My00YjMyLTk1ZGMtNDEzY2U5ZTQ0NmE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDIxVDE1NTc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJiYmJlYjZmOWQ4NDQ1ZmUzNzkyMjE5ZTJiNzZkZTQxOGE1OGM0N2FhMTkwOWI0MTQwNzU5MzZhZjNiM2NkYjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Vu7Hpr9yb4ezdgxywViyrqyrPhMO4hIR8FDLU8CK1fA" 
+  src="./code_scroll_readme.gif" 
   alt="image"
 />
 </div>
@@ -159,7 +159,7 @@ Mục tiêu của mình là tạo ra các **ứng dụng thực tế, hữu ích
 </div>
 </td> 
 <td width="30%" valign="top">
- <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="image" />
+ <img src="./mr-robot-readme.gif" alt="image" />
 </td>
 </tr>
 </table>
