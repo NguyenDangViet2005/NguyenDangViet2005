@@ -120,9 +120,16 @@ Mục tiêu của mình là tạo ra các **ứng dụng thực tế, hữu ích
 <td valign="top">
   <h2>🏆 GitHub Achievements</h2>
   <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NguyenDangViet2005&theme=radical&no-frame=true&margin-w=10&column=6" />
-</div>
-</td> 
+
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark - Merged PRs" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck - Popular Repo" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw - Fast Response" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" title="Galaxy Brain - Answered Discussions" />
+
+  </div>
+</td>
+
+
 <td valign="top">
 <h2>📈 Hoạt động trên GitHub</h2>
 <div align="center">
